@@ -1,0 +1,7 @@
+/* External CSS */
+.box {
+    background-color: cyan; 
+    margin-top: 20px; 
+    border-radius: 20px; 
+	text-align: center;
+}
